@@ -5,4 +5,9 @@ It is a digital stock exchange that lists companies changing the world. ASS curr
 
 [README](https://github.com/alinoorul/ass/blob/main/readme.pdf) contains a brief introduction to ASS, parallels with Bitcoin, and a note from its architect, Noorul Ali.
 
-To buy shares in asscorps, one must own at least 1 share in ASS ($1000, 31 July 2023).
+To buy shares in asscorps, one must own at least 1 share in ASS
+
+Ticker: ASS
+Share price: $1000
+Outstanding float: 10000
+Market cap: $50M
