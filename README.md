@@ -11,3 +11,4 @@ Ticker: ASS<br>
 Share price: $1000<br>
 Outstanding float: 10000<br>
 Market cap: $50M<br>
+Date: 7/31/2023
