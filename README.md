@@ -10,5 +10,5 @@ To buy shares in asscorps, one must own at least 1 share in ASS
 Ticker: ASS<br>
 Share price: $1000<br>
 Outstanding float: 10000<br>
-Market cap: $50M<br>
+Market cap: $100M<br>
 Date: 7/31/2023
