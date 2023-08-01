@@ -7,7 +7,7 @@ It is a digital stock exchange that lists companies changing the world. ASS curr
 
 To buy shares in asscorps, one must own at least 1 share in ASS
 
-Ticker: ASS <br>
-Share price: $1000
-Outstanding float: 10000
-Market cap: $50M
+Ticker: ASS<br>
+Share price: $1000<br>
+Outstanding float: 10000<br>
+Market cap: $50M<br>
