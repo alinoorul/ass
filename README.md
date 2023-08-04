@@ -14,6 +14,6 @@ Market cap: $100M<br>
 Release Date: 8/15/2023<br>
 Version: beta 1<br>
 
-DISCLAIMER: Antarctic Stock Simulation is a video game with an underground real level (shared simulation) that occurs in base reality: the reality in which you the reader and I the programmer exist. Like Zion and IO in The Matrix trilogy.
+DISCLAIMER: Antarctic Stock Simulation is a video game with an underground real level (shared simulation) that occurs in base reality: the reality in which you the reader and I the programmer physically exist.
 
 The Matrix [DEX](https://drive.google.com/drive/folders/1ewkrAV83f8lCNMRVIKCZkNNEa9zeSnWJ?usp=drive_link)
