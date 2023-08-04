@@ -11,4 +11,7 @@ Ticker: ASS<br>
 Share price: $1000<br>
 Outstanding float: 10000<br>
 Market cap: $100M<br>
-Date: 7/31/2023
+Release Date: 8/15/2023<br>
+Version: beta 1<br>
+
+DISCLAIMER: Antarctic Stock Simulation is a video game with an underground real level (shared simulation) that occurs in base reality (the reality in which you the reader and I the programmer exist)
