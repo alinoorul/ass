@@ -16,5 +16,5 @@ Version: beta 1<br>
 
 DISCLAIMER: Antarctic Stock Simulation is a video game with an underground real level (shared simulation) that occurs in base reality: the reality in which you the reader and I the programmer physically exist.
 
-[ASSDEX](https://github.com/alinoorul/ass/blob/main/assdex.pdf)<br>
+[ASSDEX](https://alinoorul.github.io/assdex.html)<br>
 The Matrix [DEX](https://alinoorul.github.io/)
