@@ -1,7 +1,7 @@
 # ASS
 Antarctic Stock Simulation
 
-It is a digital stock exchange that lists companies changing the world. ASS currently lists 13 companies. Read more about them in the [assdex](https://github.com/alinoorul/ass/blob/main/assdex.pdf).
+A digital stock exchange that lists companies changing the world. ASS currently lists 13 companies. Read more about them in the [assdex](https://github.com/alinoorul/ass/blob/main/assdex.pdf).
 
 [README](https://github.com/alinoorul/ass/blob/main/readme.pdf) contains a brief introduction to ASS, parallels with Bitcoin, and a note from its architect, Noorul.
 
@@ -16,4 +16,5 @@ Version: beta 1<br>
 
 DISCLAIMER: Antarctic Stock Simulation is a video game with an underground real level (shared simulation) that occurs in base reality: the reality in which you the reader and I the programmer physically exist.
 
-The Matrix [DEX](https://drive.google.com/drive/folders/1ewkrAV83f8lCNMRVIKCZkNNEa9zeSnWJ?usp=drive_link)
+[ASSDEX](https://github.com/alinoorul/ass/blob/main/assdex.pdf)<br>
+The Matrix [DEX](https://github.com/alinoorul/DEX/blob/main/DEX.pdf)
